@@ -8,7 +8,7 @@ Summary:	WDDX.pm - Module for reading and writing WDDX packets
 Summary(pl):	WDDX.pm - modu³ do odczytu i zapisu pakietów WDDX
 Name:		perl-WDDX
 Version:	1.02
-Release:	0.1
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
