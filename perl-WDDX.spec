@@ -5,7 +5,7 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	WDDX
 Summary:	WDDX.pm - Module for reading and writing WDDX packets
-Summary(pl):	WDDX.pm - modu³ do odczytu i zapisu pakietów WDDX
+Summary(pl.UTF-8):   WDDX.pm - moduÅ‚ do odczytu i zapisu pakietÃ³w WDDX
 Name:		perl-WDDX
 Version:	1.02
 Release:	1
@@ -30,10 +30,10 @@ this module as well as additional information can be found at
 <http://www.scripted.com/wddx/>. For more information about WDDX please
 visit <http://www.wddx.org/>.
 
-%description -l pl
-Ten modu³ udostêpnia perlowy interfejs do WDDX. Ostatnia wersjê tego
-modu³u oraz dodatkowe informacje mo¿na znale¼æ pod
-<http://www.scripted.com/wddx/>. Wiêcej informacji o WDDX znajduje siê
+%description -l pl.UTF-8
+Ten moduÅ‚ udostÄ™pnia perlowy interfejs do WDDX. Ostatnia wersjÄ™ tego
+moduÅ‚u oraz dodatkowe informacje moÅ¼na znaleÅºÄ‡ pod
+<http://www.scripted.com/wddx/>. WiÄ™cej informacji o WDDX znajduje siÄ™
 pod adresem <http://www.wddx.org/>.
 
 %prep
