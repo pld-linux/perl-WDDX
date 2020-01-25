@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	WDDX
 Summary:	WDDX.pm - Module for reading and writing WDDX packets
 Summary(pl.UTF-8):	WDDX.pm - moduł do odczytu i zapisu pakietów WDDX
